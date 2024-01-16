@@ -12,6 +12,8 @@ A simple python code to search the web and various other websites with just one 
 
 Type your search query in the place of "something"
 
+More commands will be added soon...
+
 ## Installation 🖳
 
 1. Download **main.py** file.
@@ -20,3 +22,5 @@ Type your search query in the place of "something"
 4. Save the file and quit.
 5. Run `source ~/.bashrc` to use this from any where on your system.
 6. Finally restart your terminal!
+
+**🚨 This may/may not work on windows 🚨**
