@@ -18,10 +18,11 @@ Type your search query in the place of "something"
 ## Installation 🖳
 
 1. Download **main.py** file.
-2. Open your terminal and run `vim ~/.bashrc` or `code ~/.bashrc`
-3. Copy `alias s='python PATH_TO_MAIN.PY_FILE'` and paste at the end of the **.bashrc file**
-4. Save the file and quit.
-5. Run `source ~/.bashrc` to use this from any where on your system.
-6. Finally restart your terminal!
+2. Run `pip install colorama` or `pip3 install colorama`
+3. Open your terminal and run `vim ~/.bashrc` or `code ~/.bashrc`
+4. Copy `alias s='python PATH_TO_MAIN.PY_FILE'` and paste at the end of the **.bashrc file**
+5. Save the file and quit.
+6. Run `source ~/.bashrc` to use this from any where on your system.
+7. Finally restart your terminal!
 
 **🚨 This may/may not work on windows 🚨**
