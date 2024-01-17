@@ -9,10 +9,11 @@ A simple python code to search the web and various other websites with just one 
 `s md something` - Searches Medium </br>
 `s rt something` - Searches Reddit </br>
 `s sp something` - Searches Spotify </br>
+`s pt something` - Searches Pinterest </br>
+`s wk something` - Searches Wikipedia </br>
+`s x something` - Searches Twitter </br>
 
 Type your search query in the place of "something"
-
-More commands will be added soon...
 
 ## Installation 🖳
 
