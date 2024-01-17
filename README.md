@@ -25,4 +25,4 @@ Type your search query in the place of "something"
 6. Run `source ~/.bashrc` to use this from any where on your system.
 7. Finally restart your terminal!
 
-**🚨 This may/may not work on windows 🚨**
+**🚨 Step-6 may/may not work on windows 🚨**
