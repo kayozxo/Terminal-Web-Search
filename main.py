@@ -39,6 +39,10 @@ if site == "x":
   print(Fore.GREEN + "Searching Twitter...")
   url = 'https://www.twitter.com/search?q='
 
+if site == "gt":
+  print(Fore.GREEN + "Searching Github...")
+  url = 'https://www.github.com/search?q='
+
 def create_query():
   query = sys.argv[2:]
   return ' '.join(query)
