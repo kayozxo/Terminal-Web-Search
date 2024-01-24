@@ -12,6 +12,7 @@ A simple python code to search the web and various other websites with just one 
 `s pt something` - Searches Pinterest </br>
 `s wk something` - Searches Wikipedia </br>
 `s x something` - Searches Twitter </br>
+`s gt something` - Searches GitHub </br>
 
 Type your search query in the place of "something"
 
